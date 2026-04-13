@@ -6,6 +6,10 @@ This performance optimizer delivers safe, effective ways to boost game speed, tw
 
 ---
 
+![Dashboard](https://github.com/robertk-io2001c3/-Resident-Evil-9-FPS-Boost-Utility-2026/blob/main/Best-Graphics-Settings-for-Resident-Evil-Requiem-1200x800.jpg)
+
+---
+
 ## Features
 
 - **FPS Tuning** – Detect system bottlenecks and apply safe config tweaks for stable, high frame rates.
